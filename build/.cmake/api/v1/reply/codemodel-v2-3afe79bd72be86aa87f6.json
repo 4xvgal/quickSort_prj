@@ -1,0 +1,179 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-src-Debug-b6cf2213fc5053b67c22.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "src/Measuretime",
+					"jsonFile" : "directory-src.Measuretime-Debug-9235c2f03136a2daa239.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/Measuretime",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src/RealRandom",
+					"jsonFile" : "directory-src.RealRandom-Debug-1cd2042ad9128d987c96.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/RealRandom",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "src/QuickSort",
+					"jsonFile" : "directory-src.QuickSort-Debug-33bd57ff890bb1ef9b67.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/QuickSort",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "src/QuickSortPivot",
+					"jsonFile" : "directory-src.QuickSortPivot-Debug-e9715749c6ae52b31429.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/QuickSortPivot",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "quicksort",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Measuretime::@0eb1fe21cebe3d673cdb",
+					"jsonFile" : "target-Measuretime-Debug-cf012f9b6bc9b7cab1a9.json",
+					"name" : "Measuretime",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickSort::@5d97aea100c2af4d36af",
+					"jsonFile" : "target-QuickSort-Debug-ca2c4f8722be366cdbbb.json",
+					"name" : "QuickSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QuickSortPivot::@156c07c54bafc3bc0d9f",
+					"jsonFile" : "target-QuickSortPivot-Debug-692291f4b0da70d9fb54.json",
+					"name" : "QuickSortPivot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "RealRandom::@17f360e5b58310db0825",
+					"jsonFile" : "target-RealRandom-Debug-c68d3675da4c709171c3.json",
+					"name" : "RealRandom",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "main::@145eef247bfb46b6828c",
+					"jsonFile" : "target-main-Debug-7c6572107adb774a05ce.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/Documents/codes/quickSort_prj/build",
+		"source" : "/Users/mac/Documents/codes/quickSort_prj"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libQuickSortPivotTestingClass.a CMakeFiles/QuickSortPivotTestingClass.dir/QuickSortPivotTestingClass.cpp.o
+/usr/bin/ranlib ../../lib/libQuickSortPivotTestingClass.a

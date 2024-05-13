@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libQuickSortPivot.a CMakeFiles/QuickSortPivot.dir/QuickSortPivot.cpp.o
+/usr/bin/ranlib ../../lib/libQuickSortPivot.a
