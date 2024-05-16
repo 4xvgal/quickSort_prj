@@ -9,9 +9,6 @@
 /Users/mac/Documents/codes/quickSort_prj/build/src/RealRandom/CMakeFiles/RealRandom.dir
 /Users/mac/Documents/codes/quickSort_prj/build/src/RealRandom/CMakeFiles/edit_cache.dir
 /Users/mac/Documents/codes/quickSort_prj/build/src/RealRandom/CMakeFiles/rebuild_cache.dir
-/Users/mac/Documents/codes/quickSort_prj/build/src/QuickSort/CMakeFiles/QuickSort.dir
-/Users/mac/Documents/codes/quickSort_prj/build/src/QuickSort/CMakeFiles/edit_cache.dir
-/Users/mac/Documents/codes/quickSort_prj/build/src/QuickSort/CMakeFiles/rebuild_cache.dir
 /Users/mac/Documents/codes/quickSort_prj/build/src/QuickSortPivot/CMakeFiles/QuickSortPivot.dir
 /Users/mac/Documents/codes/quickSort_prj/build/src/QuickSortPivot/CMakeFiles/edit_cache.dir
 /Users/mac/Documents/codes/quickSort_prj/build/src/QuickSortPivot/CMakeFiles/rebuild_cache.dir

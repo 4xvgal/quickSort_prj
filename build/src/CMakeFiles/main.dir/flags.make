@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/clang++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/mac/Documents/codes/quickSort_prj/src/Measuretime -I/Users/mac/Documents/codes/quickSort_prj/src/RealRandom -I/Users/mac/Documents/codes/quickSort_prj/src/QuickSort -I/Users/mac/Documents/codes/quickSort_prj/src/QuickSortPivot
+CXX_INCLUDES = -I/Users/mac/Documents/codes/quickSort_prj/src/Measuretime -I/Users/mac/Documents/codes/quickSort_prj/src/RealRandom -I/Users/mac/Documents/codes/quickSort_prj/src/QuickSortPivot
 
 CXX_FLAGSarm64 = -g -std=gnu++11 -arch arm64
 

@@ -31,7 +31,7 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 8,
+				"line" : 7,
 				"parent" : 0
 			}
 		]
@@ -54,10 +54,6 @@
 				{
 					"backtrace" : 2,
 					"path" : "/Users/mac/Documents/codes/quickSort_prj/src/RealRandom"
-				},
-				{
-					"backtrace" : 2,
-					"path" : "/Users/mac/Documents/codes/quickSort_prj/src/QuickSort"
 				},
 				{
 					"backtrace" : 2,
@@ -91,10 +87,6 @@
 		},
 		{
 			"backtrace" : 2,
-			"id" : "QuickSort::@5d97aea100c2af4d36af"
-		},
-		{
-			"backtrace" : 2,
 			"id" : "QuickSortPivot::@156c07c54bafc3bc0d9f"
 		}
 	],
@@ -123,7 +115,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "../lib/libQuickSort.a",
+				"fragment" : "-lQuickSort",
 				"role" : "libraries"
 			},
 			{
@@ -158,8 +150,7 @@
 				2,
 				3,
 				4,
-				5,
-				6
+				5
 			]
 		}
 	],
@@ -179,11 +170,6 @@
 		{
 			"backtrace" : 2,
 			"path" : "src/RealRandom/realRandom_urandom.hpp",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 2,
-			"path" : "src/QuickSort/QuickSort.hpp",
 			"sourceGroupIndex" : 1
 		},
 		{

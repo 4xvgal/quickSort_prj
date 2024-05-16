@@ -41,7 +41,6 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/Users/mac/Documents/codes/quickSort_prj/build/src/Measuretime/cmake_install.cmake")
   include("/Users/mac/Documents/codes/quickSort_prj/build/src/RealRandom/cmake_install.cmake")
-  include("/Users/mac/Documents/codes/quickSort_prj/build/src/QuickSort/cmake_install.cmake")
   include("/Users/mac/Documents/codes/quickSort_prj/build/src/QuickSortPivot/cmake_install.cmake")
 
 endif()

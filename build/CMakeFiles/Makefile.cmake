@@ -12,7 +12,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.29.0/CMakeSystem.cmake"
   "/Users/mac/Documents/codes/quickSort_prj/src/CMakeLists.txt"
   "/Users/mac/Documents/codes/quickSort_prj/src/Measuretime/CMakeLists.txt"
-  "/Users/mac/Documents/codes/quickSort_prj/src/QuickSort/CMakeLists.txt"
   "/Users/mac/Documents/codes/quickSort_prj/src/QuickSortPivot/CMakeLists.txt"
   "/Users/mac/Documents/codes/quickSort_prj/src/RealRandom/CMakeLists.txt"
   "/opt/homebrew/Cellar/cmake/3.29.0/share/cmake/Modules/CMakeCXXInformation.cmake"
@@ -47,7 +46,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "src/CMakeFiles/CMakeDirectoryInformation.cmake"
   "src/Measuretime/CMakeFiles/CMakeDirectoryInformation.cmake"
   "src/RealRandom/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "src/QuickSort/CMakeFiles/CMakeDirectoryInformation.cmake"
   "src/QuickSortPivot/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
@@ -56,6 +54,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "src/CMakeFiles/main.dir/DependInfo.cmake"
   "src/Measuretime/CMakeFiles/Measuretime.dir/DependInfo.cmake"
   "src/RealRandom/CMakeFiles/RealRandom.dir/DependInfo.cmake"
-  "src/QuickSort/CMakeFiles/QuickSort.dir/DependInfo.cmake"
   "src/QuickSortPivot/CMakeFiles/QuickSortPivot.dir/DependInfo.cmake"
   )

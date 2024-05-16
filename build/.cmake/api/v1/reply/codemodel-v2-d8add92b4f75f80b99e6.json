@@ -24,8 +24,7 @@
 					[
 						2,
 						3,
-						4,
-						5
+						4
 					],
 					"jsonFile" : "directory-src-Debug-b6cf2213fc5053b67c22.json",
 					"minimumCMakeVersion" : 
@@ -37,7 +36,7 @@
 					"source" : "src",
 					"targetIndexes" : 
 					[
-						4
+						3
 					]
 				},
 				{
@@ -67,22 +66,7 @@
 					"source" : "src/RealRandom",
 					"targetIndexes" : 
 					[
-						3
-					]
-				},
-				{
-					"build" : "src/QuickSort",
-					"jsonFile" : "directory-src.QuickSort-Debug-33bd57ff890bb1ef9b67.json",
-					"minimumCMakeVersion" : 
-					{
-						"string" : "3.5"
-					},
-					"parentIndex" : 1,
-					"projectIndex" : 0,
-					"source" : "src/QuickSort",
-					"targetIndexes" : 
-					[
-						1
+						2
 					]
 				},
 				{
@@ -97,7 +81,7 @@
 					"source" : "src/QuickSortPivot",
 					"targetIndexes" : 
 					[
-						2
+						1
 					]
 				}
 			],
@@ -111,8 +95,7 @@
 						1,
 						2,
 						3,
-						4,
-						5
+						4
 					],
 					"name" : "quicksort",
 					"targetIndexes" : 
@@ -120,8 +103,7 @@
 						0,
 						1,
 						2,
-						3,
-						4
+						3
 					]
 				}
 			],
@@ -136,13 +118,6 @@
 				},
 				{
 					"directoryIndex" : 4,
-					"id" : "QuickSort::@5d97aea100c2af4d36af",
-					"jsonFile" : "target-QuickSort-Debug-8513b648759eae13d2d2.json",
-					"name" : "QuickSort",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 5,
 					"id" : "QuickSortPivot::@156c07c54bafc3bc0d9f",
 					"jsonFile" : "target-QuickSortPivot-Debug-0e9d296db4c74f744a67.json",
 					"name" : "QuickSortPivot",
@@ -158,7 +133,7 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "main::@145eef247bfb46b6828c",
-					"jsonFile" : "target-main-Debug-1cb113afff292d25d979.json",
+					"jsonFile" : "target-main-Debug-a5f57ac28caa6c3f8d11.json",
 					"name" : "main",
 					"projectIndex" : 0
 				}

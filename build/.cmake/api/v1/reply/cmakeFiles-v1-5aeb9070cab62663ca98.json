@@ -117,9 +117,6 @@
 			"path" : "src/RealRandom/CMakeLists.txt"
 		},
 		{
-			"path" : "src/QuickSort/CMakeLists.txt"
-		},
-		{
 			"path" : "src/QuickSortPivot/CMakeLists.txt"
 		}
 	],
