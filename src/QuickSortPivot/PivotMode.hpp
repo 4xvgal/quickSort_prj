@@ -5,7 +5,7 @@
 
 class PivotMode { 
     public:
-        enum class Pivot { FIRST, END, MIDDLE, RANDOM }; // 피벗 모드
+        enum class Pivot { FIRST, END, MIDDLE, RANDOM, MEDIAN}; // 피벗 모드
 
         static std::string toString(Pivot mode){
             switch (mode) {
@@ -13,6 +13,7 @@ class PivotMode {
                 case Pivot::END: return "END";
                 case Pivot::MIDDLE: return "MIDDLE";
                 case Pivot::RANDOM: return "RANDOM";
+                case Pivot::MEDIAN: return "MEDIAN";
                 default: return "Unknown";
             }
         }
