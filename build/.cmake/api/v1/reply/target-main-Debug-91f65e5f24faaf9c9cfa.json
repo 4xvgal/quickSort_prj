@@ -115,11 +115,6 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-lQuickSort",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
 				"fragment" : "../lib/libQuickSortPivot.a",
 				"role" : "libraries"
 			}

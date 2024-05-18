@@ -872,4 +872,6 @@ src/CMakeFiles/main.dir/main.cpp.o: \
   /Users/mac/Documents/codes/quickSort_prj/src/RealRandom/realRandom_urandom.hpp \
   /Users/mac/Documents/codes/quickSort_prj/src/QuickSortPivot/QuickSortPivot.hpp \
   /Users/mac/Documents/codes/quickSort_prj/src/QuickSortPivot/PivotMode.hpp \
-  /Users/mac/Documents/codes/quickSort_prj/src/Measuretime/MeasureTime.hpp
+  /Users/mac/Documents/codes/quickSort_prj/src/Measuretime/MeasureTime.hpp \
+  /Users/mac/Documents/codes/quickSort_prj/src/QuickSortPivot/Test/QuickSortPivotTester.hpp \
+  /Users/mac/Documents/codes/quickSort_prj/src/QuickSortPivot/Test/../QuickSortPivot.hpp

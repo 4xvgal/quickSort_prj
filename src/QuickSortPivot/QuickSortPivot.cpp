@@ -1,7 +1,6 @@
+//QuickSortPivot.cpp
 #include "QuickSortPivot.hpp"
-
 #include "PivotMode.hpp"
-
 int QuickSortPivot::Partition(int Left, int Right, PivotMode::Pivot mode) {
   int pivotIndex = CalcPivot(Left, Right, mode); //피벗 위치를 계산
   int pivotValue = arr[pivotIndex];              //피벗 값

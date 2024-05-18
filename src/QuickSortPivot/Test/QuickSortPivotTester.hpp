@@ -19,7 +19,7 @@ public:
     std::cout << std::endl;
 
     // 퀵 정렬 수행
-    qsp.QuickSortFunc(0, size - 1, Pivot::FIRST);
+    qsp.QuickSortFunc(0, size - 1, PivotMode::Pivot::FIRST);
 
     // 배열 출력 (정렬 후)
     std::cout << "After sorting: ";
@@ -28,5 +28,10 @@ public:
       std::cout << sortedArr[i] << " ";
     }
     std::cout << std::endl;
+  }
+  int main(){
+    QuickSortPivotTester tester;
+    tester.runTest();
+    return 0;
   }
 };

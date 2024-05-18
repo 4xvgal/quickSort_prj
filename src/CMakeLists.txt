@@ -7,6 +7,5 @@ add_subdirectory(QuickSortPivot)
 target_link_libraries(main
     Measuretime
     RealRandom
-    QuickSort
     QuickSortPivot
 )

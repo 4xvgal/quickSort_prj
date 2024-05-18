@@ -156,19 +156,6 @@ RealRandom/fast:
 .PHONY : RealRandom/fast
 
 #=============================================================================
-# Target rules for targets named QuickSort
-
-# Build rule for target.
-QuickSort: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QuickSort
-.PHONY : QuickSort
-
-# fast build rule for target.
-QuickSort/fast:
-	$(MAKE) $(MAKESILENT) -f src/QuickSort/CMakeFiles/QuickSort.dir/build.make src/QuickSort/CMakeFiles/QuickSort.dir/build
-.PHONY : QuickSort/fast
-
-#=============================================================================
 # Target rules for targets named QuickSortPivot
 
 # Build rule for target.
@@ -190,7 +177,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Measuretime"
-	@echo "... QuickSort"
 	@echo "... QuickSortPivot"
 	@echo "... RealRandom"
 	@echo "... main"
